@@ -1,0 +1,63 @@
+{
+  "rows": {
+    "original": {
+      "creak_pct": 38.2,
+      "voiced_pct": 35.7,
+      "median_f0_hz": 116.3,
+      "speaker_sim_to_reference": 0.797,
+      "wer_vs_original_pct": 0.0,
+      "pesq_estimate": 2.93,
+      "length_diff_ms": 0.0,
+      "lag_first_5s_ms": 0.0,
+      "lag_last_5s_ms": 0.0
+    },
+    "neutral": {
+      "creak_pct": 22.6,
+      "voiced_pct": 44.4,
+      "median_f0_hz": 108.1,
+      "speaker_sim_to_reference": 0.612,
+      "wer_vs_original_pct": 1.3,
+      "pesq_estimate": 3.55,
+      "length_diff_ms": -20.0,
+      "lag_first_5s_ms": 0.0,
+      "lag_last_5s_ms": 0.0
+    },
+    "less_fry": {
+      "creak_pct": 17.0,
+      "voiced_pct": 41.1,
+      "median_f0_hz": 115.2,
+      "speaker_sim_to_reference": 0.615,
+      "wer_vs_original_pct": 2.5,
+      "pesq_estimate": 3.65,
+      "length_diff_ms": -20.0,
+      "lag_first_5s_ms": 10.0,
+      "lag_last_5s_ms": 0.0
+    },
+    "much_less_fry": {
+      "creak_pct": 16.8,
+      "voiced_pct": 38.6,
+      "median_f0_hz": 124.5,
+      "speaker_sim_to_reference": 0.603,
+      "wer_vs_original_pct": 5.1,
+      "pesq_estimate": 3.75,
+      "length_diff_ms": -20.0,
+      "lag_first_5s_ms": 10.0,
+      "lag_last_5s_ms": 0.0
+    },
+    "more_fry": {
+      "creak_pct": 43.2,
+      "voiced_pct": 47.8,
+      "median_f0_hz": 107.4,
+      "speaker_sim_to_reference": 0.495,
+      "wer_vs_original_pct": 2.5,
+      "pesq_estimate": 3.74,
+      "length_diff_ms": -20.0,
+      "lag_first_5s_ms": 0.0,
+      "lag_last_5s_ms": 0.0
+    }
+  },
+  "calibration": {
+    "same_speaker_original_vs_reference": 0.797,
+    "different_speaker_vs_reference": 0.145
+  }
+}

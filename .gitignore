@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+VQVC/
+downloads/
+models/
+work/
+*.wav
+*.m4a
+*.pt
+*.pth
+*.tar.gz

@@ -1,0 +1,58 @@
+{
+  "input_samples": 480000,
+  "input_seconds": 30.0,
+  "outputs": {
+    "neutral": {
+      "raw_samples": 479680,
+      "raw_seconds": 29.98,
+      "diff_ms": -20.0,
+      "settings": {
+        "creak": 0.0,
+        "cpps": 0.0,
+        "h1h2": 0.0,
+        "h1a3": 0.0,
+        "pitch_var": 0.0,
+        "pitch": -1.0
+      }
+    },
+    "less_fry": {
+      "raw_samples": 479680,
+      "raw_seconds": 29.98,
+      "diff_ms": -20.0,
+      "settings": {
+        "creak": -1.0,
+        "cpps": 0.5,
+        "h1h2": 0.5,
+        "h1a3": 0.0,
+        "pitch_var": 0.0,
+        "pitch": -1.0
+      }
+    },
+    "much_less_fry": {
+      "raw_samples": 479680,
+      "raw_seconds": 29.98,
+      "diff_ms": -20.0,
+      "settings": {
+        "creak": -2.0,
+        "cpps": 1.0,
+        "h1h2": 1.0,
+        "h1a3": 0.0,
+        "pitch_var": 0.0,
+        "pitch": -1.0
+      }
+    },
+    "more_fry": {
+      "raw_samples": 479680,
+      "raw_seconds": 29.98,
+      "diff_ms": -20.0,
+      "settings": {
+        "creak": 3.0,
+        "cpps": -1.0,
+        "h1h2": -2.0,
+        "h1a3": -2.0,
+        "pitch_var": 0.0,
+        "pitch": -1.0
+      }
+    }
+  }
+}

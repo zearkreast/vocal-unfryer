@@ -1,0 +1,24 @@
+# Versions that produced the results in README.md (Python 3.11, Windows, CPU-only torch).
+torch==2.14.1
+torchaudio==2.11.0
+numpy==2.4.6
+scipy==1.17.1
+librosa==0.11.0
+soundfile==0.14.0
+praat-parselmouth==0.4.7
+imageio-ffmpeg==0.6.0
+yt-dlp==2026.10.21
+# VQVC speaker encoder
+webrtcvad-wheels==2.0.14.post1
+# CreaPy (bundled in VQVC/creapy)
+pandas==2.3.3
+praatio==5.0.0
+tgt==1.5
+PyYAML==6.0.3
+rich==15.0.0
+scikit-learn==1.9.1
+ruamel.yaml==0.17.40
+# Evaluation
+speechbrain==1.1.2
+faster-whisper==1.2.1
+jiwer==4.0.0
